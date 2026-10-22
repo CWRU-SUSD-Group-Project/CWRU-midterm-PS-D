@@ -30,15 +30,18 @@ Work on your own role branch and edit only your role file. Leave inputs/, shared
 
 ## Timeline
 
+Before the clock (if you can): fork, clone, open Codex.
+
 | Minutes | Work |
 | --- | --- |
-| 0-10 | Read and make branches |
-| 10-50 | Do your role |
-| 50-60 | Merge |
-| 60-80 | Leader builds final/, team reviews |
-| 80-90 | Rehearse |
+| 0-5 | Read the brief and join your role |
+| 5-45 | Do your role (say "done" by minute 45) |
+| 45-55 | Everyone merges |
+| 55-80 | Leader builds final/, team reviews |
+| 80-90 | Rehearse the 5-minute talk |
 
 ## Final work
 
-The leader creates final/plan.md: one page with the idea, a budget under $20,000, the break-even date with math, the top three risks, and launch marketing.
+The leader creates final/plan.md: one page with the idea, the break-even date with math, the top three risks, and launch marketing.
+$20,000 is all the cash you have. Everything you pay before you break even must fit inside it. Show a month-by-month cash table.
 The leader also creates final/presentation_outline.md for a five-minute presentation.
